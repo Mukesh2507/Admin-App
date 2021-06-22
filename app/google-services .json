@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728161263215",
+    "project_id": "socet-app",
+    "storage_bucket": "socet-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728161263215:android:77c1866a66da39864df79a",
+        "android_client_info": {
+          "package_name": "com.example.admincollegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728161263215-v58o66cp1cpboo0ijomim7kfjk1oh9dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ-dt5JOmRau_4QCEmz6DI4V0ryeLRlx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728161263215-v58o66cp1cpboo0ijomim7kfjk1oh9dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
